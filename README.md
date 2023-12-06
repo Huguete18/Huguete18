@@ -8,12 +8,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Huguete18&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Huguete18&show_icons=true&count_private=true&hide_border=true&title_color=43d9bd&icon_color=43d9bd&text_color=c9d1d9&bg_color=0d1117" alt="github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huguete18&layout=compact&hide_border=true&title_color=43d9bd&text_color=4efff4&bg_color=0d1117" />
 </div>
-
 
 <div align="center"> 
   <a href="https://www.instagram.com/huguete_18/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -26,17 +24,16 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 HIGHER TECHNICIAN IN APPLICATIONS AND DEVELOPMENT WITH PYTHON | CYBERSECURITY, CLOUD ANALYSIS, AND ETHICAL HACKING
+  🎓 HIGHER TECHNICIAN IN APPLICATIONS AND DEVELOPMENT WITH PYTHON | CYBERSECURITY, CLOUD ANALYSIS, AND ETHICAL HACKING
 
-💻 Passionate about web development, I specialize in creating impactful and functional digital experiences.
+  💻 Passionate about web development, I specialize in creating impactful and functional digital experiences.
 
-📝 Specialized in frontend development with a focus on creating impactful user experiences, and an expert in cybersecurity to ensure the integrity and protection of web applications.
+  📝 Specialized in frontend development with a focus on creating impactful user experiences, and an expert in cybersecurity to ensure the integrity and protection of web applications.
 
-📫 Contact: **serhuguet@gmail.com**
+  📫 Contact: **serhuguet@gmail.com**
+</p>
 <!--Intro end-->
-  </p>
 <br>
-
 <h2 >Known technologies 👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
@@ -46,5 +43,6 @@
 </p>
 <br>
 
-<!--- Footer -->
+<!--- Footer start -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=43d9bd&height=120&section=footer"/>
+<!--- Footer end -->

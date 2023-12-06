@@ -19,7 +19,7 @@
   <a href="mailto:serhuguet@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/sergihuguetvazquez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinKedin"></a>
 </div>
-
+<br>
 <h2>About me 💻</h2>
 <!--Intro start-->
 

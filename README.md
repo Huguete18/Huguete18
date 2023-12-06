@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=43d9bd&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Sergi+Huguet;I'm+24+years+old;I'm+from+Barcelona;I+Graduated+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Huguete18&bg_color=0d1117&color=43d9bd&line=36b29b&point=4efdff&area=true&hide_border=true)](https://github.com/Huguete18/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Huguete18&bg_color=0d1117&color=4efff4&line=36b29b&point=4efdff&area=true&hide_border=true)](https://github.com/Huguete18/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Huguete18&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />

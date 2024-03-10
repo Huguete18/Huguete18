@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=43d9bd&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=43d9bd&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Sergi+Huguet;I'm+24+years+old;I'm+from+Barcelona;I+Graduated+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
-[![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Huguete18&bg_color=0d1117&color=4efff4&line=36b29b&point=4efdff&area=true&hide_border=true)](https://github.com/Huguete18/github-readme-activity-graph)
 
 <p align="center">
